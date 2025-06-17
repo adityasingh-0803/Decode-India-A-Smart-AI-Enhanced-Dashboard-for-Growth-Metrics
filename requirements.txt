@@ -1,0 +1,7 @@
+dash
+pandas
+plotly
+scikit-learn
+numpy
+statsmodels
+dash-export
