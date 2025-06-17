@@ -20,3 +20,5 @@ const ForecastGraph = () => (
     </ResponsiveContainer>
   </div>
 );
+
+export default ForecastGraph;
