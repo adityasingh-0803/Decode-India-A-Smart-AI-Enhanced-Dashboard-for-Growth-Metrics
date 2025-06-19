@@ -17,7 +17,7 @@ A powerful interactive dashboard that visualizes and analyzes growth metrics for
 ---
 
 ## 📁 Project Structure
-
+```
 Decode-India/
 │
 ├── app.py # Main Dash application
@@ -25,7 +25,7 @@ Decode-India/
 │ ├── india_growth_metrics.csv # City-wide metrics data
 │ └── timeseries.csv # Year-wise data (2015–2023) for forecasting
 └── README.md # Instructions and documentation
-
+```
 
 ---
 
